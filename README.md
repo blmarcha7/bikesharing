@@ -5,10 +5,15 @@ This analysis was to look at the NYC bike data and analyse by different categori
 ## Results
 
 ![](Checkout Time for Users.png)
+
 ![](Checkout Time for Gender.png)
+
 ![](Trips by Weekday by Hour.png)
+
 ![](Trips by Gender.png)
+
 ![](Usertrips by Gender.png)
+
 
 ## Summary 
 
