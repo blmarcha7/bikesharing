@@ -7,24 +7,24 @@ We created a tableau story to show our analysis of NYC bikes data. See the link 
 
 [link to dashboard](https://public.tableau.com/app/profile/brittany.marchand/viz/NYCCityBikeAnalysis_16510124384060/NYCCityBikes?publish=yes)
 
-![](Checkout Time for Users)
+![](Checkout_Time_Users.png)
 
 From this graph we can see that most people checkout their bikes for 20 minutes or less. We can also see that the max amount of bikes being checked out is between 147000 bikes.
 
-![](Checkout Time for Gender)
+![](checkout_time_gender.png)
 
 From this graph we can see there is a large difference between males and females who are checking out bikes. They both seem to checkout their bikes for similar amount of time, but there are way more males taking bike rides.
 
-![](Trips by Weekday by Hour)
+![](Trips_by_Weekday.png)
 
 From this graph we can see that most people are bringing back their bikes in the evening, and especially there are way more people taking bike rides near the end of the week. There is also more people taking rides in the morning around 8 am as well. It seems around 8 am and 5-6 pm are the most popular times.
 
 
-![](Trips by Gender)
+![](Trips_by_Gender.png)
 
 This graph is similar to the last, but again it shows the large difference of males riding compared to women.
 
-![](Usertrips by Gender)
+![](Usertrips_by_Gender.png)
 
 Our final graph shows that most people in the city that are riding bikes are subscribers vs. one time customers. It also shows that Thursday seems to be the most people day and again, that males are riding more often than females.
 
